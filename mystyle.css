@@ -1,0 +1,15 @@
+body {
+  padding-left: 11em;
+  font-family: Georgia, "Times New Roman",
+        Times, serif;
+  color: purple;
+}
+h1 {
+  font-family: Helvetica, Geneva, Arial,
+        SunSans-Regular, sans-serif;
+  color: blue;
+}
+a:link {
+  color: blue; }
+a:visited {
+  color: purple; }
